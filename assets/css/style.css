@@ -87,48 +87,42 @@ aside {
   background-size: cover;
   background-position: center;
 }
+
+.left-block {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
 .float-left {
   float: left;
   margin-right: 25px;
 }
+
 .float-right {
   float: right;
   margin-left: 25px;
 }
-
-
 
 .right-block {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-
 .right-block img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-
-.left-block {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
